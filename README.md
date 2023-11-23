@@ -29,11 +29,12 @@ The project involves merging the datasets, cleaning the data, performing statist
 The analysis revealed significant insights into the performance of athletes across various age groups, heights, and Olympic disciplines. The hypotheses were tested and validated/invalidated based on statistical analyses.
 
 #### Summary of Findings
-1. **Younger Athletes' Performance**: ![image](https://github.com/Soumik0811/Olympics-EDA/assets/91133940/17dab1ab-24de-4070-b18b-07c81972c5b3)
+1. **Younger Athletes' Performance**:
+   ![image](https://github.com/Soumik0811/Olympics-EDA/assets/91133940/17dab1ab-24de-4070-b18b-07c81972c5b3)
 
-2. **Gymnastics Performance**: ![image](https://github.com/Soumik0811/Olympics-EDA/assets/91133940/dd0e56fc-119d-4ded-b538-5e9e6100801d)
+3. **Gymnastics Performance**: ![image](https://github.com/Soumik0811/Olympics-EDA/assets/91133940/dd0e56fc-119d-4ded-b538-5e9e6100801d)
 
-3. **Height and Medal Wins**: ![image](https://github.com/Soumik0811/Olympics-EDA/assets/91133940/a9058f01-d5c2-444b-8d04-201b1f00173c)
+4. **Height and Medal Wins**: ![image](https://github.com/Soumik0811/Olympics-EDA/assets/91133940/a9058f01-d5c2-444b-8d04-201b1f00173c)
 
 ## Conclusion
 This EDA project aimed to explore the Olympic dataset, merging two distinct files, and testing hypotheses related to athlete performance factors. The findings shed light on trends and correlations within the Olympic events dataset.
